@@ -1,0 +1,11 @@
+# CS:GO Dataset
+# Example usage: python train.py --data csgo.yaml
+
+path: ../csgo_data
+train: images/train
+val: images/val
+test: images/test
+
+# Classes
+nc: 7  # number of classes
+names: [teammate, enemy, chicken, crate, site, bomb, motorcycle] # class name
