@@ -46,4 +46,4 @@ To test the model on CS:GO dataset, run the following command:
 `python test.py --data data/csgo.yaml --weights cs_weights.pt --dist test_out/`  
 
 ## Output Example
-![Test Output Example](https://camo.githubusercontent.com/50f30992d5a895841187debb53a04fae417adb6a90067e6f7bf793c003d7cfb5/68747470733a2f2f692e6962622e636f2f516242354863592f37312e6a7067)
+![Test Output Example](images/example.jpg)
